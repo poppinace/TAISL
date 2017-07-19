@@ -1,1 +1,1 @@
-# TAISL
+# Tensor-Aligned Invariant Subspace Learning
