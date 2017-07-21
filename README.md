@@ -17,8 +17,8 @@ By [Hao Lu](https://sites.google.com/site/poppinace/)<sup>1</sup>, [Lei Zhang](h
 This repository contains the implimentation of Naive Tensor Subspace Learning (NTSL) and Tensor-Aligned Invariant Subspace Learning (TAISL) proposed in our ICCV17 paper.
 
 **Prerequisites**
-1. Matlab is required. This repository has been tested on Mac OS X Matlab2016a. It should also be compatible with Windows 10.
-2. LibLinear toolbox at: https://www.csie.ntu.edu.tw/~cjlin/liblinear/. Please remember to install it following the instruction on the website, especially for Windows and Ubantun users.
+1. Matlab is required. This repository has been tested on 64-bit Mac OS X Matlab2016a. The code should also be compatible with Windows 10.
+2. LibLinear toolbox at: https://www.csie.ntu.edu.tw/~cjlin/liblinear/. Please remember to install it following the instruction on the website, especially for Windows and Ubuntun users.
 3. Tensor Toolbox at: http://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html.
 4. Matlab code for optimization with orthogonality constraints at: http://optman.blogs.rice.edu.
 
