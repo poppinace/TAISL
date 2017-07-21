@@ -1,5 +1,7 @@
 # Tensor-Aligned Invariant Subspace Learning
-When Unsupervised Domain Adaptation Meets Tensor Representations, Proc. IEEE International Conference on Computer Vision (ICCV), 2017
+When Unsupervised Domain Adaptation Meets Tensor Representations
+
+Proc. IEEE International Conference on Computer Vision (ICCV), 2017
 
 By [Hao Lu](https://sites.google.com/site/poppinace/)<sup>1</sup>, [Lei Zhang](https://sites.google.com/site/leizhanghyperspectral/)<sup>2</sup>, Zhiguo Cao<sup>1</sup>, Wei Wei<sup>2</sup>, Ke Xian<sup>1</sup>, [Chunhua Shen](http://cs.adelaide.edu.au/~chhshen/)<sup>3</sup>, [Anton van den Hengel](https://cs.adelaide.edu.au/~hengel/)<sup>3</sup>
 
