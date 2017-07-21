@@ -18,10 +18,11 @@ This repository contains the implimentation of Naive Tensor Subspace Learning (N
 
 **Prerequisites**
 1. Matlab is required. This repository has been tested on Mac OS X Matlab2016a. It should also be compatible with Windows 10.
-2. Tensor Toolbox at: http://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html.
-3. Code for optimization with orthogonality constraints at: http://optman.blogs.rice.edu
+2. LibLinear toolbox at: https://www.csie.ntu.edu.tw/~cjlin/liblinear/. Please remember to install it following the instruction on the website, especially for Windows and Ubantun users.
+3. Tensor Toolbox at: http://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html.
+4. Matlab code for optimization with orthogonality constraints at: http://optman.blogs.rice.edu
 
-For your convenience, these two toolboxs have already been included in this repository. Please remember to cite corresponding papers if you use these codes.
+For your convenience, these toolboxs have already been included in this repository. Please remember to cite corresponding papers/softwares if you use these codes.
 
 **Usage**
 1. run demo.m for a demonstration for the domain adaptation task of W->C.
