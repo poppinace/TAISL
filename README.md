@@ -1,5 +1,5 @@
 # Tensor-Aligned Invariant Subspace Learning
-When Unsupervised Domain Adaptation Meets Tensor Representations
+**When Unsupervised Domain Adaptation Meets Tensor Representations**
 
 Proc. IEEE International Conference on Computer Vision (ICCV), 2017
 
