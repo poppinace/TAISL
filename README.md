@@ -25,7 +25,7 @@ This repository contains the implimentation of Naive Tensor Subspace Learning (N
 For your convenience, these toolboxs have already been included in this repository. Please remember to cite corresponding papers/softwares if you use these codes.
 
 **Usage**
-1. run demo.m for a demonstration for the domain adaptation task of W->C.
+1. run demo.m for a demonstration for the domain adaptation task of D->C.
 
 ### Citation
 
