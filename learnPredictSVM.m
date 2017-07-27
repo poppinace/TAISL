@@ -38,10 +38,6 @@ end
 tr_labels = tr_labels(:);
 ts_labels = ts_labels(:);
 
-% % data visualization
-% [mappedXs, mappedXt] = visualizeData(tr_features, ts_features, tr_labels, ts_labels);
-% distribVisual(mappedXs, mappedXt, tr_labels, ts_labels);
-
 % train SVM on source training data
 model = train(tr_labels, sparse(double(tr_features)), '-s 5 -c 1 -B 1 -q');
 
